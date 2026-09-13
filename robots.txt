@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bozheng-hit.github.io/sitemap.xml
